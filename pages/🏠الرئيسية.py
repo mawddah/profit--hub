@@ -65,7 +65,7 @@ if button1:
 with col3:
     button2 = st.button("طلب تمويل")
 if button2:
-    st.switch_page("pages/fund.py")
+    st.switch_page("pages/🏦طلب تمويل.py.py")
 with col4:
     pass
 st.divider()
@@ -127,7 +127,7 @@ with st.container():
 """)
         clicked = st.button("استثمر")
         if clicked:
-            st.switch_page("pages/info.py")
+            st.switch_page("pages/تفاصيل اكثر.py")
             
 
  
