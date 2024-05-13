@@ -50,12 +50,12 @@ with col1:
     st.metric("SAR", "20.83 شهريًا", help="شهريًا")
     clicked = st.button("ادفع ←")
 if clicked:
-    st.switch_page("pages/Pay.py")
+    st.switch_page("pages/💲الدفع.py")
 
 with col2:
     st.info("الاشتراك الشهري")
     st.metric("SAR", "40")
     clickedd = st.button(":arrow_right: للخلف")
 if clickedd:
-    st.switch_page("pages/home.py")
+    st.switch_page("pages/🏠ProfitHub.py")
 
