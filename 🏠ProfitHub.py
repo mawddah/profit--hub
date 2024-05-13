@@ -88,4 +88,4 @@ st.write(css, unsafe_allow_html=True)
 #Handling the form submission
 if submit_button:
      st.success("تم انشاء حساب بنجاح!")
-     st.switch_page("pages/webPage.py")
+     st.switch_page("pages/⭐️التفضيلات.py")
