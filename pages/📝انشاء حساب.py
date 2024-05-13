@@ -87,6 +87,6 @@ st.write(css, unsafe_allow_html=True)
 if submit_button:
     if password == confirm_password:
         st.success("تم انشاء حساب بنجاح!")
-        st.switch_page("pages/webPage.py")
+        st.switch_page("pages/⭐️التفضيلات.py")
     else:
         st.error("كلمة السر غير متطابقة!")
