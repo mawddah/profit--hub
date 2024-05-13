@@ -57,7 +57,7 @@ with image_column:
 with text_column:
     result = st.button("طلب تمويل", key="1")
     if result:
-        st.switch_page("pages/Pay.py")
+        st.switch_page("pages/💲الدفع.py")
     st.write(
             """
 تمويل يصل إلى مبلغ 20 مليون ريال.
@@ -77,7 +77,7 @@ with image_column:
 with text_column:
     result2 = st.button("طلب تمويل", key="2")
     if result2:
-         st.switch_page("pages/Pay.py")
+         st.switch_page("pages/💲الدفع.py")
     st.write(
             """
 مبلغ التمويل من 10,000 إلى 250,000 ر.س
@@ -97,7 +97,7 @@ with image_column:
 with text_column:
     clicked = st.button("طلب تمويل")
     if clicked:
-         st.switch_page("pages/Pay.py")
+         st.switch_page("pages/💲الدفع.py")
     st.write(
             """
 اتفاقية تمويل تجمع بينك وبين بنك الرياض:
