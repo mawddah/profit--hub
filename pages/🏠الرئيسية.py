@@ -53,7 +53,7 @@ width: 8em;
 
 """, unsafe_allow_html=True)
 
-st.image("logo.PNG", use_column_width=True)
+st.image("logo.png", use_column_width=True)
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
