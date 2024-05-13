@@ -61,11 +61,11 @@ with col1:
 with col2:
     button1 = st.button("اشترك")
 if button1:
-    st.switch_page("pages/🎉الاشتراك.py.py")
+    st.switch_page("pages/🎉الاشتراك.py")
 with col3:
     button2 = st.button("طلب تمويل")
 if button2:
-    st.switch_page("pages/🏦طلب تمويل.py.py")
+    st.switch_page("pages/🏦طلب تمويل.py")
 with col4:
     pass
 st.divider()
