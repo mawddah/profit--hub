@@ -88,5 +88,5 @@ with st.container():
 
 # Streamlit native button for navigation
 if st.button("استثمر"):
-    st.switch_page("pages/Pay.py")
+    st.switch_page("pages/💲الدفع.py")
 # Debugging
