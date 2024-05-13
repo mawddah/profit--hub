@@ -127,7 +127,7 @@ with st.container():
 """)
         clicked = st.button("استثمر")
         if clicked:
-            st.switch_page("pages/info.py")
+            st.switch_page("pages/تفاصيل اكثر.py")
             
 
  
