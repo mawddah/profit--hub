@@ -59,4 +59,4 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 if st.button("التالي ⬅️"):
-    st.switch_page("pages/🏠ProfitHub.py")
+    st.switch_page("pages/🏠الرئيسية.py")
