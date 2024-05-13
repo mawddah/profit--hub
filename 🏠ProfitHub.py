@@ -37,19 +37,7 @@ p{
 """, unsafe_allow_html=True)
 
 
-show_pages(
-    [
-        Page("ProfitHub.py", "تسجيل الدخول", ":bust_in_silhouette:"),
-        Page("pages/signup.py", "انشاء حساب", ":pencil:"),
-        Page("pages/home.py", "الرئيسية", ":house:"),
-        Page("pages/webPage.py", "التفضيلات", ":star:"),
-        Page("pages/sub.py", "اشترك", ":tada:"),
-        Page("pages/fund.py", "تمويل", ":bank:"),
-        Page("pages/info.py", "."),
-        Page("pages/Pay.py", "."),
 
-     ]
-    )
 
 # Main container
 with st.container():
