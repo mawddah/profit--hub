@@ -57,5 +57,5 @@ with col2:
     st.metric("SAR", "40")
     clickedd = st.button(":arrow_right: للخلف")
 if clickedd:
-    st.switch_page("pages/🏠ProfitHub.py")
+    st.switch_page("pages/🏠الرئيسية.py")
 
